@@ -5,5 +5,5 @@ npm install
 
 - To run the code
 ```bash
-npm startcdcd
+npm start
 ```
